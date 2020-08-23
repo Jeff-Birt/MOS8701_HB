@@ -1,0 +1,1 @@
+This is teh C64 BASIC program talked about in the video. It configures CIA#2 to pulse PB6 on the User Port. This was used to trigger a MOSFET which switched in a resistove load putting a 200ma draw on the 5V rail.

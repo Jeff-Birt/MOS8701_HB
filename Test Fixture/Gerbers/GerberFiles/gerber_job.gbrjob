@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-08-16T20:51:52Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "MOS8701_HB Test Fixture v15"
+        },
+        "Owner": "Jeffrey Birt <birtj@mst.edu>",
+        "Size": {
+            "X": 44.45,
+            "Y": 63.5
+        }
+    }
+}
